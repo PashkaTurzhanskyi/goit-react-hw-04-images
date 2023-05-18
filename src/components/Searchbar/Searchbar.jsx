@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState } from 'react';
+import React, { useState } from 'react';
 import css from './Searchbar.module.css';
 import PropTypes from 'prop-types';
 

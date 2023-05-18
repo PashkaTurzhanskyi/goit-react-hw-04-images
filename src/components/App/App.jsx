@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Searchbar } from '../Searchbar/Searchbar';
 import { ImageGallery } from '../ImageGallery/ImageGallery';
 import { Loader } from '../Loader/Loader';
